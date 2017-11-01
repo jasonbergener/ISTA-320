@@ -1,0 +1,7 @@
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.exe.config
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.exe
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\bin\Debug\PLINQ.pdb
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.csprojResolveAssemblyReference.cache
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.exe
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 24\PLINQ\PLINQ\obj\Debug\PLINQ.pdb

@@ -1,0 +1,1 @@
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 23\Parallel GraphDemo\GraphDemo\GraphDemo.csproj;x86
