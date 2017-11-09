@@ -1,0 +1,1 @@
+C:\Users\jason\Documents\Visual Studio 2017\Projects\UWPBlog\UWPBlog\UWPBlog.csproj;x86
