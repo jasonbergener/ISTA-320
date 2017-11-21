@@ -1,0 +1,1 @@
+C:\Users\jason\Documents\Microsoft Press\VCSBS\Chapter 26\DataBinding\Customers\Customers.csproj;x86
