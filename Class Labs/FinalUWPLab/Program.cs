@@ -72,6 +72,10 @@ namespace FinalUWPLab
                 // Print out the content of the text field:
                 Console.WriteLine($"{sqlite_datareader.GetValue(0)}, {sqlite_datareader.GetString(1)}\n");
             }
+
+            Console.WriteLine("Closing the database connection.");
+            // close the connection:
+            sqlite_conn.Close();
         }
     }
 }
